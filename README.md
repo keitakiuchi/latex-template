@@ -92,7 +92,11 @@ latexmk -r ../latexmkrc main.tex
 
 ## ライセンス
 
-MIT License
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
+
+本ソフトウェアは **GNU General Public License v3.0 以降（GPL-3.0-or-later）** の下で配布されています。  
+詳細はリポジトリ同梱の [LICENSE](LICENSE) ファイルをご覧ください。
+
 
 ## TeX Live 2025 最新版のインストール手順（WSL Ubuntu）
 
